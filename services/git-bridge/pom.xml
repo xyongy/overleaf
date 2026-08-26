@@ -88,19 +88,19 @@
         <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
-            <version>2.8.2</version>
+            <version>2.8.9</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.asynchttpclient/async-http-client -->
         <dependency>
             <groupId>org.asynchttpclient</groupId>
             <artifactId>async-http-client</artifactId>
-            <version>2.3.0</version>
+            <version>2.16.0</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.eclipse.jgit/org.eclipse.jgit -->
         <dependency>
             <groupId>org.eclipse.jgit</groupId>
             <artifactId>org.eclipse.jgit</artifactId>
-            <version>5.12.0.202106070339-r</version>
+            <version>5.13.4.202507202350-r</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.eclipse.jgit/org.eclipse.jgit.http.server -->
         <dependency>
@@ -112,7 +112,7 @@
         <dependency>
             <groupId>org.xerial</groupId>
             <artifactId>sqlite-jdbc</artifactId>
-            <version>3.36.0.1</version>
+            <version>3.41.2.2</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/joda-time/joda-time -->
         <dependency>
@@ -124,7 +124,7 @@
         <dependency>
             <groupId>com.google.oauth-client</groupId>
             <artifactId>google-oauth-client</artifactId>
-            <version>1.23.0</version>
+            <version>1.33.3</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/com.google.http-client/google-http-client -->
         <dependency>
@@ -142,19 +142,19 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
-            <version>3.12.0</version>
+            <version>3.18.0</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/ch.qos.logback/logback-classic -->
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
-            <version>1.2.3</version>
+            <version>1.2.13</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>30.1.1-jre</version>
+            <version>32.0.0-jre</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.mock-server/mockserver-netty -->
         <dependency>
@@ -193,19 +193,19 @@
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
-            <version>4.5.5</version>
+            <version>4.5.13</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.10.0</version>
+            <version>2.14.0</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-compress -->
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-compress</artifactId>
-            <version>1.20</version>
+            <version>1.26.0</version>
         </dependency>
         <!-- prometheus metrics -->
         <dependency>
