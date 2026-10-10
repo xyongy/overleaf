@@ -19,7 +19,7 @@
     "lint:fix": "eslint --fix ."
   },
   "dependencies": {
-    "@overleaf/logger": "^2.3.0",
+    "@overleaf/logger": "^3.1.1",
     "@overleaf/metrics": "^3.5.1",
     "@overleaf/o-error": "^3.3.1",
     "@overleaf/redis-wrapper": "^2.0.1",
