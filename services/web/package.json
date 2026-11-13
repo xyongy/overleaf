@@ -143,7 +143,7 @@
     "mmmagic": "^0.5.3",
     "moment": "^2.24.0",
     "mongodb": "^3.6.0",
-    "mongoose": "^5.13.11",
+    "mongoose": "^6.13.12",
     "multer": "https://github.com/overleaf/multer/archive/7a2928d7ea2da02dd92888ea1c9ba5704e07aeeb.tar.gz",
     "nocache": "^2.1.0",
     "nock": "^13.1.3",
